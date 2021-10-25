@@ -6,10 +6,12 @@ import AdditionalCliches from './components/AdditionalCliches';
 import MyMind from './components/MyMind';
 import SoberCards from './components/SoberCards';
 import BBCards from './components/BBCards';
+import NavBar from './components/NavBar';
 
 function App() {
   return (
     <BrowserRouter>
+      <NavBar />
       <Switch>
         <Route component={Home} path='/' exact />
         <Route component={Cliches} path='/cliches' />
