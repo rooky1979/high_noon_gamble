@@ -1,38 +1,7 @@
 * {
   font-family: 'Raleway', sans-serif;
 }
-/* .header {
-  background-color: white;
-}
-.Logo {
-  margin-top: 15px;
-  width: 175px;
-  height: 100px;
-}
-.navbar {
-  justify-content: space-between;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-}
-.nav {
-  display: flex;
-}
-.navlink {
-  display: inline-flex;
-  align-items: center;
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
-  margin-right: 1rem;
-  color: black;
-  font-weight: bold;
-  text-decoration: none;
-}
-.navlink:hover {
-  color: rgb(218, 65, 65);
-} */
+/*Navbar*/
 /*Desktop View*/
 .header {
   display: flex;
@@ -57,11 +26,6 @@
   height: 100px;
 }
 .nav-options {
-  /* padding-left: 25px;
-  display: grid;
-  grid-template-columns: repeat(3, auto);
-  grid-gap: 50px;
-  list-style-type: none; */
   display: inline-flex;
   align-items: center;
   padding-left: 0.75rem;
@@ -77,8 +41,16 @@
   display: none;
 }
 .option {
-  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-right: 1rem;
   color: black;
+  font-weight: bold;
+  text-decoration: none;
 }
 .option:hover {
   color: rgb(218, 65, 65);
@@ -139,4 +111,25 @@
 }
 .mobile-menu {
   display: block;
+}
+/*Home page*/
+.home-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.book {
+  padding-bottom: 30px;
+  /*margin: 10px, 10px, 10px, 10px;*/
+  margin-right: 20px;
+  width: 170px;
+  height: auto;
 }
