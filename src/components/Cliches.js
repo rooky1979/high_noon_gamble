@@ -7,18 +7,15 @@ export default function Cliches() {
         <img src='101cliches.jpg' alt='101 Common Cliches' />
       </div>
       <div className='form-textbox'>
-        {/*text box for enter cliche number between 1-101 
-        will need input validation
-        , button for random cliche*/}
         <input
-          className='textbox'
+          className='textbox mx-1'
           type='text'
           placeholder='Enter a cliche between 1-100'
           name='cliche'
         />
         <input type='submit' className='btn btn-primary' />
+        <div className='btn btn-dark'>Random Cliche</div>
       </div>
-      <div className='buttons'>Click for Random Cliche</div>
     </main>
   );
 }

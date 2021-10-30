@@ -20,6 +20,9 @@
 .my-2 {
   margin: 2rem 0;
 }
+.mx-1 {
+  margin: 0 1rem;
+}
 .p-2 {
   padding: 2rem;
 }
@@ -189,7 +192,6 @@
 }
 .book {
   padding-bottom: 30px;
-  /*margin: 10px, 10px, 10px, 10px;*/
   margin-right: 20px;
   width: 170px;
   height: auto;
@@ -198,20 +200,23 @@
 .book-container {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   margin-left: 40%;
-  /*   margin-right: 30%; */
+  margin-right: 40%;
   width: 170px;
   height: auto;
 }
+/* Textbox and buttons */
 .form-textbox {
   margin-top: 20px;
   justify-content: center;
   display: flex;
+  margin-right: 10%;
 }
 .textbox {
   width: 200px;
 }
-.buttons {
+.btn {
   display: inline-block;
   background: rgb(218, 65, 65);
   color: #ffffff;
@@ -229,4 +234,14 @@
 .btn.btn-primary {
   background-color: #62bfed;
   color: #fff;
+}
+.btn.btn-primary:hover {
+  background: #3f474e;
+}
+.btn.btn-dark {
+  background-color: rgb(218, 65, 65);
+  color: #fff;
+}
+.btn.btn-dark:hover {
+  background: #3f474e;
 }
