@@ -1,5 +1,21 @@
 import React from 'react';
+import { additional_cliches } from '../additional_cliches';
 
 export default function AdditionalCliches() {
-  return <h1>Additional Cliches page</h1>;
+  return (
+    <main>
+      <div className='book-container'>
+        <img src='101additional.jpg' alt='101 Additional Common Cliches' />
+      </div>
+      <section className='card-container'>
+        {additional_cliches.map((cliche) => (
+          <article className='card'>
+            <h3>
+              {cliche.id}. {cliche.quote}
+            </h3>
+          </article>
+        ))}
+      </section>
+    </main>
+  );
 }

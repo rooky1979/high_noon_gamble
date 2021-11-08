@@ -1,5 +1,21 @@
 import React from 'react';
+import { mymind } from '../mymind';
 
 export default function MyMind() {
-  return <h1>My Mind is out to get me page</h1>;
+  return (
+    <main>
+      <div className='book-container'>
+        <img src='mindout.jpg' alt='My Mind Is Out To Get Me' />
+      </div>
+      <section className='card-container'>
+        {mymind.map((quote) => (
+          <article className='card'>
+            <h3>
+              {quote.id}. {quote.quote}
+            </h3>
+          </article>
+        ))}
+      </section>
+    </main>
+  );
 }

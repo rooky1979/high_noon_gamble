@@ -240,8 +240,29 @@
 }
 .btn.btn-dark {
   background-color: rgb(218, 65, 65);
-  color: #fff;
+  color: #ffffff;
 }
 .btn.btn-dark:hover {
   background: #3f474e;
+}
+/* quote cards */
+.card-container {
+  margin-top: 20px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 300px);
+  place-content: center;
+  gap: 1rem;
+}
+.card {
+  border-radius: 4px;
+  background-color: beige;
+  box-shadow: 0 5px 10px -3px rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+.article {
+  padding: 1em;
 }
