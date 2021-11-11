@@ -1570,549 +1570,1754 @@ export const mymind = [
     bookid: '3',
   },
   {
-    id: '',
+    id: '252',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "AA is not a pretty dress you put on in the morning; it's a way of life.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '253',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "There's no one too dumb for this program, but it's possible to be too smart.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '254',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "You're ready for AA when you're not drinking for fun anymore.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '255',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'When I was drinking, I always wanted to be somebody else, someplace else.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '256',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "It's not what you want to do that matters; it's what you do.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '257',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'The race is often won not by the swiftest, but by the person who manages to keep running.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '258',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "It's none of my business what you think of me.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '259',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Staying sober is my most important business today.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '260',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "Alcoholism is the only disease that will tell you you don't have it.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '261',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'My alcoholism: I was the last one to know.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '262',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'We plan our slips.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '263',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'When all else fails, read the directions - the Twelve Steps.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '264',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'I have an incurable, fatal disease which can be arrested one day at a time.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '265',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'I remember the lessons learned the hard way; the easy ones I forget.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '266',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'All I wanted was to control you, myself, and everything else.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '267',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "All is well, even when it ain't.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '268',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'In AA the only mistake you can make is not coming back.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '269',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "My disease is an elephant. As long as I remember it's there, I won't get stepped on.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '270',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Alcoholic: A person with both feet planted firmly in thin air.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '271',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Gratitude is the streetcar to a better attitude.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '272',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'I came to AA because I was sick and tired of being sick and tired.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '273',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Let what is given be enough.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '274',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'You must be, before you can do.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '275',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "If I don't drink today, more will be revealed.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '276',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'There is nothing wrong with motivation - the key is in what motivates you.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '277',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Life does not have to be a daily struggle.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '278',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'I accept that I cannot drink, but that does not mean that I will not drink again.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '279',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "In AA you've got to surrender to win.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '280',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'The good is the enemy of the best.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '281',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Ask God in the morning, thank him at night.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '282',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'God, grant me the serenity to accept the things I cannot change...',
     bookid: '3',
   },
   {
-    id: '',
+    id: '283',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'When I joined AA, I realised I could run toward my problems.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '284',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "Things won't get better because you joined AA, but you will.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '285',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Since I came to AA, I can take a trip without taking a trip.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '286',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'There is dignity in sobriety.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '287',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'God will remove only the character defects that stand in your way of helping others.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '288',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'In AA you can be a part, not apart.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '289',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Pain is inevitable, suffering is optional.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '290',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "The further I'm away from my last drunk, the closer I am to my next drink.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '291',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "The bad news: When the suffering of the present exceeds the suffering of the past, you will drink again. The good news: You don't have to suffer anymore.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '292',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'My alcoholism is simple: When I was drunk, I felt okay.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '293',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "You've got to be willing to be willing.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '294',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "Don't compare.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '295',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'You are not alone.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '296',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'Before you drink, throw your desire chip in the gutter and know that soon you will follow.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '297',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'I must change me, not the geography.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '299',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'The musts, oughts, and shoulds in your life can drive you crazy.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '300',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'Try praying. Nothing pleases God more than to hear a strange voice.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '301',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'How to stop drinking: Bend your knees instead of your elbows.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '302',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'No matter what, things can only get worse if you drink at them.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '303',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'The urge is going to pass whether you drink or not.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '304',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'Before I joined AA, I was either thinking about drinking, or getting over drinking.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '305',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'There was never enough in the bottle to satisfy me.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '306',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'When I joined AA, I lost my innocence about my drinking.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '307',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "Reality can be hell when you're only visiting.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '308',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'Constructive criticism: I tell you what is wrong with you. Destructive criticism: You tell me what is wrong with me.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '309',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'God, save me from myself.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '310',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'Anything you would be ashamed of doing and have not done yet, you will do if you pick up another drink.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '311',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "We're all here because we're not all here.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '312',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "Come to meetings to see what happens to people who don't come to meetings.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '313',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Sick, sorry, then sober.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '314',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "God, when I speak, please fill my mouth with good stuff and give me a nudge when I've said enough.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '315',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "Since I joined AA,I've never needed and wanted a drink at the same time.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '316',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Plan for tomorrow, but live just for today.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '317',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "Please everybody and no one is pleased; please yourself and at least you're pleased.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '318',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "Happiness doesn't come from getting what we want, but from enjoying what we have.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '319',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'When I help, I am helped.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '320',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'To recover, you need something to do and someone to love.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '321',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Nothing changes until it becomes real.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '322',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'There is enough time to accomplish all that is necessary.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '323',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "You can't expect to live a trashy lifestyle and belong to AA",
     bookid: '3',
   },
   {
-    id: '',
+    id: '324',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'My mind is out to get me.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '325',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'When I joined AA, I quit selling myself cheap.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '326',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'With this program I can be a decent person.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '327',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "The elevator of alcoholism goes only down, but you can get off where you'd like",
     bookid: '3',
   },
   {
-    id: '',
+    id: '328',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "The longer I stay sober, the more I remember I'd forgotten when I was drinking.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '329',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Alcoholics are all from the same nut tree.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '330',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'Before AA I had this equation: Self-worth = my performance + the opionions of others. I could never get it to balance.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '331',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'My problems are self-made.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '332',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Sober life can be distresstin, but not dangerous.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '333',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'My worst day sober is not nearly as bad as my worst day drinking.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '334',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Alcohol endowed me with the delusion of adequacy.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '335',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'Alcoholic: An egomaniac with an inferority complex.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '336',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'If you hang around long enough, someone will do the slipping for you.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '337',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      'The load of tomorrow, added to that of yesterday, carried today makes the strongest falter.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '338',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'If I could do any better, I would.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '339',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'I need to get the cotton out of my ears and put it in my mouth.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '341',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'When the student is ready, the teacher appears.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '342',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: 'As a sponsor, remember you can carry the word, but not the person.',
     bookid: '3',
   },
   {
-    id: '',
+    id: '343',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote:
+      "When alcoholics are ready, you can't keep the program from them; when they're not, you can't give the program away.",
     bookid: '3',
   },
   {
-    id: '',
+    id: '344',
     book: 'My Mind Is Out To Get Me',
-    quote: '',
+    quote: "I didn't get what I wanted from AA; I got what I needed.",
+    bookid: '3',
+  },
+  {
+    id: '345',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "I never attended a meeting in which I didn't get something, even if just angry.",
+    bookid: '3',
+  },
+  {
+    id: '346',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'When I was drinking, I was deathly afraid of living.',
+    bookid: '3',
+  },
+  {
+    id: '347',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'AA works very well without me, but I work a lot better with AA.',
+    bookid: '3',
+  },
+  {
+    id: '348',
+    book: 'My Mind Is Out To Get Me',
+    quote: "I'm harder on myself than anybody else.",
+    bookid: '3',
+  },
+  {
+    id: '349',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "It doesn't matter how you got here or why you got here, just that you're here.",
+    bookid: '3',
+  },
+  {
+    id: '350',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'People, places, and things exist whether I choose to accept them or not. The only choice I have about acceptance is to be either grateful or miserable.',
+    bookid: '3',
+  },
+  {
+    id: '351',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Spiritual growth comes from being in AA, not just around it.',
+    bookid: '3',
+  },
+  {
+    id: '352',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "We didn't all arrive on the same ship, but we're all in the same boat.",
+    bookid: '3',
+  },
+  {
+    id: '353',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Not drinking is easy. It's living and not drinking that's hard.",
+    bookid: '3',
+  },
+  {
+    id: '354',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Come to ninety meetings in ninety days. If you're not satisfied, we'll refund your misery.",
+    bookid: '3',
+  },
+  {
+    id: '355',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Two realisations have contributed to my spiritual growth: (1) There is a God. (2) I ain't God.",
+    bookid: '3',
+  },
+  {
+    id: '356',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'All I ever wanted when I was drinking was a little more than I ever had.',
+    bookid: '3',
+  },
+  {
+    id: '357',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Prayers don't change God. They change me.",
+    bookid: '3',
+  },
+  {
+    id: '358',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Things I turn over to God most easily are those things already fixed.',
+    bookid: '3',
+  },
+  {
+    id: '359',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "I've failed, but I'm not a failure. I've made mistakes, but I'm not a mistake.",
+    bookid: '3',
+  },
+  {
+    id: '360',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'No one ever arrives at AA too late.',
+    bookid: '3',
+  },
+  {
+    id: '361',
+    book: 'My Mind Is Out To Get Me',
+    quote: "You can't. God can. Let him.",
+    bookid: '3',
+  },
+  {
+    id: '362',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When I first got to AA, both my drinker and my thinker were broken.',
+    bookid: '3',
+  },
+  {
+    id: '363',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Keep your mind and your body in the same place.',
+    bookid: '3',
+  },
+  {
+    id: '364',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'To get along with people, keep skid chains on your tongue.',
+    bookid: '3',
+  },
+  {
+    id: '365',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Your greatest fear is exactly where your alcoholism was taking you.',
+    bookid: '3',
+  },
+  {
+    id: '366',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'The Serenity Prayer is the handrail to grab until you can work the steps.',
+    bookid: '3',
+  },
+  {
+    id: '367',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Be careful of what you do or you will get away from what works.',
+    bookid: '3',
+  },
+  {
+    id: '368',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Alcoholics are noted for their mind-reading ability.',
+    bookid: '3',
+  },
+  {
+    id: '369',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Cease panic and start prayer.',
+    bookid: '3',
+  },
+  {
+    id: '370',
+    book: 'My Mind Is Out To Get Me',
+    quote: "If you can't fight and you can't flee, then flow.",
+    bookid: '3',
+  },
+  {
+    id: '371',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Don't sweat the small stuff, and remember, it's all small stuff.",
+    bookid: '3',
+  },
+  {
+    id: '372',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Drinking didn't cause my problems, living did.",
+    bookid: '3',
+  },
+  {
+    id: '373',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'What comes from the heart goes to the heart.',
+    bookid: '3',
+  },
+  {
+    id: '374',
+    book: 'My Mind Is Out To Get Me',
+    quote: "It's a lot easier to stay sober than to get sober.",
+    bookid: '3',
+  },
+  {
+    id: '375',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Other people's drinking never bothered me until I quit drinking.",
+    bookid: '3',
+  },
+  {
+    id: '376',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Misery loves miserable company.',
+    bookid: '3',
+  },
+  {
+    id: '377',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "There's nothing more disgusting than being sober in a room full of drunks.",
+    bookid: '3',
+  },
+  {
+    id: '378',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "It takes several years to read the black part of the Big Book - that's the part that's not between the lines.",
+    bookid: '3',
+  },
+  {
+    id: '379',
+    book: 'My Mind Is Out To Get Me',
+    quote: "You don't fall off a building when you're standing in the middle. ",
+    bookid: '3',
+  },
+  {
+    id: '380',
+    book: 'My Mind Is Out To Get Me',
+    quote: "I'm trying to be as honest as I can.",
+    bookid: '3',
+  },
+  {
+    id: '381',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'AA: Absolute Abstinence.',
+    bookid: '3',
+  },
+  {
+    id: '382',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "The catch-22 to recovery: You've got to change your thinking to change your drinking. But to change your thinking, you've got to change your drinking.",
+    bookid: '3',
+  },
+  {
+    id: '383',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'I began to get better when I knew I could choose between being right and getting well.',
+    bookid: '3',
+  },
+  {
+    id: '384',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'The world is not my enemy.',
+    bookid: '3',
+  },
+  {
+    id: '385',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'The practicing alcoholic is the only person in the world who can lie in the gutter and still look down on others.',
+    bookid: '3',
+  },
+  {
+    id: '386',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "If you claim to like everyone you've met in AA, you haven't been to enough meetings.",
+    bookid: '3',
+  },
+  {
+    id: '387',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Is your mind racing? Try reading the Big Book out loud. Your mind can only do one thing at a time.',
+    bookid: '3',
+  },
+  {
+    id: '388',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'AA meetings are the jumper cables God uses to get love flowing from one alcoholic to another.',
+    bookid: '3',
+  },
+  {
+    id: '389',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When your time in meetings equals your time in bars, you have a chance to recover.',
+    bookid: '3',
+  },
+  {
+    id: '390',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'An alcoholic who is alone is in bad company.',
+    bookid: '3',
+  },
+  {
+    id: '391',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "If it works, don't do anything to fix it. If it doesn't work, do anything to fix it.",
+    bookid: '3',
+  },
+  {
+    id: '392',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Alcoholics don't have relationships - they take hostages.",
+    bookid: '3',
+  },
+  {
+    id: '393',
+    book: 'My Mind Is Out To Get Me',
+    quote: "You can't be fired for on-the-job sobriety.",
+    bookid: '3',
+  },
+  {
+    id: '394',
+    book: 'My Mind Is Out To Get Me',
+    quote: "It's a good day if I haven't harmed myself or anyone else.",
+    bookid: '3',
+  },
+  {
+    id: '395',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'I have to get out of myself to find myself.',
+    bookid: '3',
+  },
+  {
+    id: '396',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Don't pray for healing and then tell God what to do.",
+    bookid: '3',
+  },
+  {
+    id: '397',
+    book: 'My Mind Is Out To Get Me',
+    quote: "The only defense you have when you're wrong is to attack.",
+    bookid: '3',
+  },
+  {
+    id: '398',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "You're ready for this program when you've drunk so much you can get neither drunk nor sober.",
+    bookid: '3',
+  },
+  {
+    id: '399',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Don't become emotionally involved with reality.",
+    bookid: '3',
+  },
+  {
+    id: '400',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Before I came to AA, I was a human doing, not a human being.',
+    bookid: '3',
+  },
+  {
+    id: '401',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'EGO: Easing God Out.',
+    bookid: '3',
+  },
+  {
+    id: '402',
+    book: 'My Mind Is Out To Get Me',
+    quote: "We can't see the growth in ourselves, but we can see it in others.",
+    bookid: '3',
+  },
+  {
+    id: '403',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'By going to meetings and working the Steps, I may be able to make compost out of my pile of garbage.',
+    bookid: '3',
+  },
+  {
+    id: '404',
+    book: 'My Mind Is Out To Get Me',
+    quote: "You can't do it for anyone else.",
+    bookid: '3',
+  },
+  {
+    id: '405',
+    book: 'My Mind Is Out To Get Me',
+    quote: "You alone can do it, but you can't do it alone.",
+    bookid: '3',
+  },
+  {
+    id: '406',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "We can't take responsibility for the sobriety of others unless we're also willing to take responsibility for their slips.",
+    bookid: '3',
+  },
+  {
+    id: '407',
+    book: 'My Mind Is Out To Get Me',
+    quote: "If I'm not grateful, I'm hateful.",
+    bookid: '3',
+  },
+  {
+    id: '408',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'It is not God who needs to be thanked, but I who need to be grateful.',
+    bookid: '3',
+  },
+  {
+    id: '409',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'AA is a God-centered program for self-centered people.',
+    bookid: '3',
+  },
+  {
+    id: '410',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'The most miserable person imaginable is the one with a belly full of booze and a head full of AA.',
+    bookid: '3',
+  },
+  {
+    id: '411',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Alcoholism is not an infectious disease, but it can be contagious.',
+    bookid: '3',
+  },
+  {
+    id: '412',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'God has never been a problem in my life, but I have been a problem to God all my life.',
+    bookid: '3',
+  },
+  {
+    id: '413',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'It is more important to do what must be done than to do all you can do.',
+    bookid: '3',
+  },
+  {
+    id: '414',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "It's not so important how you started your life, but how you finish it.",
+    bookid: '3',
+  },
+  {
+    id: '415',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'When I die, I want to ride in that long black hearse dead sober.',
+    bookid: '3',
+  },
+  {
+    id: '416',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Live and let live.',
+    bookid: '3',
+  },
+  {
+    id: '417',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When you come to AA and decide you want what we have, you have to do what we do.',
+    bookid: '3',
+  },
+  {
+    id: '418',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "I know that I'm not yet the person I can be, but I thank God I'm not the person I used to be.",
+    bookid: '3',
+  },
+  {
+    id: '419',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Liquor used to do things for me and then it began to do things to me.',
+    bookid: '3',
+  },
+  {
+    id: '420',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Practising alcoholics are the only people who get to choose the disease they die from.',
+    bookid: '3',
+  },
+  {
+    id: '421',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "If you're an alcoholic and you drink, your life can only go downhill.",
+    bookid: '3',
+  },
+  {
+    id: '422',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "I've never met anyone who came back after a slip and said he or she had a good time.",
+    bookid: '3',
+  },
+  {
+    id: '423',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'I drank for just two reasons: to be what I was not and not to be what I was.',
+    bookid: '3',
+  },
+  {
+    id: '424',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Yesterday is a cancelled cheque, tomorrow is a promissory not, today is cash-on-hand.',
+    bookid: '3',
+  },
+  {
+    id: '425',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "AA won't keep you from going to hell, nor is it a ticket to heaven. But it will keep you sober long enough for you to decide where you want to go.",
+    bookid: '3',
+  },
+  {
+    id: '426',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'If we can only be judged by our enemies, then, as alcoholics, we ourselves are the best judges.',
+    bookid: '3',
+  },
+  {
+    id: '427',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Before AA I looked at the world through dung-coloured glasses.',
+    bookid: '3',
+  },
+  {
+    id: '428',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Alcoholism is the attitude disease.',
+    bookid: '3',
+  },
+  {
+    id: '429',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "If you think you're happy, you are. If you think you're wise, you are not.",
+    bookid: '3',
+  },
+  {
+    id: '430',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When I was drinking, I never beat myself up; I always beat myself down.',
+    bookid: '3',
+  },
+  {
+    id: '431',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Alcoholic: Someone no one likes and who wouldn't have it any other way.",
+    bookid: '3',
+  },
+  {
+    id: '432',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "It's not what you drink, nor when you drink, nor where you drink, nor with whom you drink, nor how often you drink; it's what that first drink does to you.",
+    bookid: '3',
+  },
+  {
+    id: '433',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "The only alcoholics who aren't guilty of driving when drunk are those who have never driven.",
+    bookid: '3',
+  },
+  {
+    id: '434',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "When I don't have expectations of others, anything positive they do is a pleasant surprise.",
+    bookid: '3',
+  },
+  {
+    id: '435',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "When I was drinking, I used to try to feel good by buying things I didn't need, with money I didn't have, to impress people I didn't like.",
+    bookid: '3',
+  },
+  {
+    id: '436',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'I must not compare the outside of you with the inside of me.',
+    bookid: '3',
+  },
+  {
+    id: '437',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'It\'s my attitude toward what happens to me that makes it a "blessin" or a lesson.',
+    bookid: '3',
+  },
+  {
+    id: '438',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "If I reached for enough drinks, my problems wouldn't go away, but I would.",
+    bookid: '3',
+  },
+  {
+    id: '439',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Since coming to AA, I've become inoculated against the disease of not wanting to live.",
+    bookid: '3',
+  },
+  {
+    id: '440',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'No one was ever as bad to me as I have been to myself.',
+    bookid: '3',
+  },
+  {
+    id: '441',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Alcohol is the great solvent: It dissolves marriages, finances, careers, and health.',
+    bookid: '3',
+  },
+  {
+    id: '442',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "AA is a fellowship of men and women who know that other people just don't act right.",
+    bookid: '3',
+  },
+  {
+    id: '443',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'AA is a fellowship of men and women who say "no".',
+    bookid: '3',
+  },
+  {
+    id: '444',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "The only time alcoholics will say they're not sure is when they're positive they're right.",
+    bookid: '3',
+  },
+  {
+    id: '445',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'AA will do until a cure comes along.',
+    bookid: '3',
+  },
+  {
+    id: '446',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When you come to AA, you have to learn to be the doctor as well as the patient.',
+    bookid: '3',
+  },
+  {
+    id: '447',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'You will have problems whether or not you stay sober.',
+    bookid: '3',
+  },
+  {
+    id: '448',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'I was willing to go anywhere to get a drink, so I should be willing to go to meetings to recover.',
+    bookid: '3',
+  },
+  {
+    id: '449',
+    book: 'My Mind Is Out To Get Me',
+    quote: "God's delay in answering our prayers isn't God's denial.",
+    bookid: '3',
+  },
+  {
+    id: '450',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Faith is the foundation of freedom from fear.',
+    bookid: '3',
+  },
+  {
+    id: '451',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'No pain, no change.',
+    bookid: '3',
+  },
+  {
+    id: '452',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When I was drinking, there was no middle: I believed I was absolutely perfect or perfectly worthless.',
+    bookid: '3',
+  },
+  {
+    id: '453',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Acceptance is about what is, not what is not.',
+    bookid: '3',
+  },
+  {
+    id: '454',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'God is my friend now instead of my enemy.',
+    bookid: '3',
+  },
+  {
+    id: '455',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Tired work is never efficient.',
+    bookid: '3',
+  },
+  {
+    id: '456',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Taking that first drink is like getting hit with a freight train - it's not the caboose that does the damage.",
+    bookid: '3',
+  },
+  {
+    id: '457',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'You may not need a meeting, but I need you to have a meeting.',
+    bookid: '3',
+  },
+  {
+    id: '458',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'No matter how I lived in the past, I can live right today.',
+    bookid: '3',
+  },
+  {
+    id: '459',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When I point my finger at you, there are always three fingers pointing back at me.',
+    bookid: '3',
+  },
+  {
+    id: '460',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "If you believe AA members gossip about you, don't worry. AA members are so self-centered they will be back talking about themselves very soon.",
+    bookid: '3',
+  },
+  {
+    id: '461',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "God doesn't punish us for our alcoholism, we punish ourselves with our alcoholism.",
+    bookid: '3',
+  },
+  {
+    id: '462',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'SLIP: Slight Lapse In Progress.',
+    bookid: '3',
+  },
+  {
+    id: '463',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Mean what you say, say what you mean.',
+    bookid: '3',
+  },
+  {
+    id: '464',
+    book: 'My Mind Is Out To Get Me',
+    quote: "I didn't take a drink today, so anything is possible.",
+    bookid: '3',
+  },
+  {
+    id: '465',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'The AA member with the longest sobriety is the one who got up earliest this morning.',
+    bookid: '3',
+  },
+  {
+    id: '466',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Alcoholics are people who pole-vault over mouse turds.',
+    bookid: '3',
+  },
+  {
+    id: '467',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Loneliness is curable.',
+    bookid: '3',
+  },
+  {
+    id: '468',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'I can borroe trouble only at high interest rates.',
+    bookid: '3',
+  },
+  {
+    id: '469',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Alcohol used to cause me to break out in strange spots - London, Paris, Miami Beach.',
+    bookid: '3',
+  },
+  {
+    id: '470',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'I came to AA to save my hide and discovered my soul was attached.',
+    bookid: '3',
+  },
+  {
+    id: '471',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'I worked the Steps not because I saw the light, but because I felt the heat.',
+    bookid: '3',
+  },
+  {
+    id: '472',
+    book: 'My Mind Is Out To Get Me',
+    quote: "If you free others to be who they are, you'll set yourself free.",
+    bookid: '3',
+  },
+  {
+    id: '473',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Just because life has been painful so far doesn't mean it has to keep hurting.",
+    bookid: '3',
+  },
+  {
+    id: '474',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Go for all of it and don't worry. If you're not supposed to have it, you won't.",
+    bookid: '3',
+  },
+  {
+    id: '475',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Were we less self-centered, we'd see that blessings and sorrows visit us in equal amounts.",
+    bookid: '3',
+  },
+  {
+    id: '476',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Life is like the turn of a wagon wheel - sometimes I'm in the sunshine, and sometimes down in the mud.",
+    bookid: '3',
+  },
+  {
+    id: '477',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'In the AA pasture there are lots of chips.',
+    bookid: '3',
+  },
+  {
+    id: '478',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'If you pray, why worry? If you worry after you pray, why pray?',
+    bookid: '3',
+  },
+  {
+    id: '479',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Having trouble turning it over to your Higher Power? Remember that your best thinking got you drunk.',
+    bookid: '3',
+  },
+  {
+    id: '480',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "If you made it this far drunk, God won't let you down when you're sober.",
+    bookid: '3',
+  },
+  {
+    id: '481',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Hang tough!',
+    bookid: '3',
+  },
+  {
+    id: '482',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Call your sponsor before, not after, you take that first drink.',
+    bookid: '3',
+  },
+  {
+    id: '483',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Strive to understand, rather than to be understood.',
+    bookid: '3',
+  },
+  {
+    id: '484',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'To make it work, you have to buy the whole package.',
+    bookid: '3',
+  },
+  {
+    id: '485',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'The evil I dimly perceive in myself I try to stamp out in others.',
+    bookid: '3',
+  },
+  {
+    id: '486',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Remember, whatever position you find yourself in, you put yourself there.',
+    bookid: '3',
+  },
+  {
+    id: '487',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'We mock the things we are to be.',
+    bookid: '3',
+  },
+  {
+    id: '488',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'What goes around comes around, if you stick around.',
+    bookid: '3',
+  },
+  {
+    id: '489',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Act as if.',
+    bookid: '3',
+  },
+  {
+    id: '490',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Change is a process, not an event.',
+    bookid: '3',
+  },
+  {
+    id: '491',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Don't drink even if your rear is on fire.",
+    bookid: '3',
+  },
+  {
+    id: '492',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "You can't get mugged in a dark alley if you don't walk in dark alleys.",
+    bookid: '3',
+  },
+  {
+    id: '493',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Wherever you go, there you are.',
+    bookid: '3',
+  },
+  {
+    id: '494',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'If you truly understand someone, you will have no need to forgive that person.',
+    bookid: '3',
+  },
+  {
+    id: '495',
+    book: 'My Mind Is Out To Get Me',
+    quote: "I'm not impatient - I just want everything to change right away.",
+    bookid: '3',
+  },
+  {
+    id: '496',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'It took every drink I took to get here.',
+    bookid: '3',
+  },
+  {
+    id: '497',
+    book: 'My Mind Is Out To Get Me',
+    quote: "It's amazing how this program works when I get out of the way.",
+    bookid: '3',
+  },
+  {
+    id: '498',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Happiness is a by-product of doing the right thing.',
+    bookid: '3',
+  },
+  {
+    id: '499',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Perhaps the only purpose of my sobriety is to stop hurting myself and others.',
+    bookid: '3',
+  },
+  {
+    id: '500',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Ego: The sum total of false ideas about myself.',
+    bookid: '3',
+  },
+  {
+    id: '501',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Check your motives.',
+    bookid: '3',
+  },
+  {
+    id: '502',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'My favourite prayer has only one word: Help.',
+    bookid: '3',
+  },
+  {
+    id: '503',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Courage is fear that has said its prayers.',
+    bookid: '3',
+  },
+  {
+    id: '504',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'My mind is not a good place to be.',
+    bookid: '3',
+  },
+  {
+    id: '505',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Do not criticise, condemn, or complain.',
+    bookid: '3',
+  },
+  {
+    id: '506',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Don't criticise others; they are just doing what we would be doing under similar circumstances.",
+    bookid: '3',
+  },
+  {
+    id: '507',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Why are you not happy with where you are? Is it not exactly where you placed yourself?',
+    bookid: '3',
+  },
+  {
+    id: '508',
+    book: 'My Mind Is Out To Get Me',
+    quote: "I'm not where I want to be, but thank God I'm not where I was.",
+    bookid: '3',
+  },
+  {
+    id: '509',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'Doing things the way I thought they should be done is what got me here.',
+    bookid: '3',
+  },
+  {
+    id: '510',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "In order to stay sober, I've got to be willing to be part of my own life.",
+    bookid: '3',
+  },
+  {
+    id: '511',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'There are no victims, just volunteers.',
+    bookid: '3',
+  },
+  {
+    id: '512',
+    book: 'My Mind Is Out To Get Me',
+    quote: "I didn't want to stop drinking, just to stop hurting.",
+    bookid: '3',
+  },
+  {
+    id: '513',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "Sometimes it's tough to know God's will for me; it's not posted on billboards.",
+    bookid: '3',
+  },
+  {
+    id: '514',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When I was drinking, individual responsibility was not my strong suit.',
+    bookid: '3',
+  },
+  {
+    id: '515',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'When you pray, just talk to God; when you meditate, just listen.',
+    bookid: '3',
+  },
+  {
+    id: '516',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When I first came to the program, members said, "Let us love you until you can love yourself."',
+    bookid: '3',
+  },
+  {
+    id: '517',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'When I first came, they said, "It will get better." I discovered the "it" was me.',
+    bookid: '3',
+  },
+  {
+    id: '518',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "God is spelled G-O-D, not D-O-G, so don't get confused and tell him to fetch.",
+    bookid: '3',
+  },
+  {
+    id: '519',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'I came to AA because things began to add up, and not add up.',
+    bookid: '3',
+  },
+  {
+    id: '520',
+    book: 'My Mind Is Out To Get Me',
+    quote: "Meetings are really boring when I don't go.",
+    bookid: '3',
+  },
+  {
+    id: '521',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'No one ever went to jail for drinking too much coffee.',
+    bookid: '3',
+  },
+  {
+    id: '522',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'You get home on the ocean of your own tears.',
+    bookid: '3',
+  },
+  {
+    id: '523',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      "I didn't know I wanted to quit drinking until I tried to quit drinking.",
+    bookid: '3',
+  },
+  {
+    id: '524',
+    book: 'My Mind Is Out To Get Me',
+    quote:
+      'I drank for just two reasons: to feel good when I felt bad and to feel better when I felt good.',
+    bookid: '3',
+  },
+  {
+    id: '525',
+    book: 'My Mind Is Out To Get Me',
+    quote: 'Anybody can stop drinking - just hit a cop.',
+    bookid: '3',
+  },
+  {
+    id: '526',
+    book: 'My Mind Is Out To Get Me',
+    quote: "I didn't come to AA, because I was afraid it would work.",
     bookid: '3',
   },
 ];
