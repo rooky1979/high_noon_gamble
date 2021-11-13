@@ -1,5 +1,21 @@
 import React from 'react';
+import { sobercards } from '../sobercards';
 
 export default function SoberCards() {
-  return <h1>Sober Cards page</h1>;
+  return (
+    <main>
+      <div className='book-container'>
+        <img src='sobercards.png' alt='Sober Cards' />
+      </div>
+      <section className='card-container'>
+        {sobercards.map((quote) => (
+          <article className='card'>
+            <h3>
+              <i>{quote.id} - </i> {quote.quote}
+            </h3>
+          </article>
+        ))}
+      </section>
+    </main>
+  );
 }
