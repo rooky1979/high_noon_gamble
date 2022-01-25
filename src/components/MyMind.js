@@ -5,7 +5,7 @@ export default function MyMind() {
   return (
     <main>
       <div className='book-container'>
-        <img src='mindout.jpg' alt='My Mind Is Out To Get Me' />
+        <img className='book-img' src='mindout.jpg' alt='My Mind Is Out To Get Me' />
       </div>
       <section className='card-container'>
         {mymind.map((quote) => (

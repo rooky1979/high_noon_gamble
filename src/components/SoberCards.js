@@ -5,7 +5,7 @@ export default function SoberCards() {
   return (
     <main>
       <div className='book-container'>
-        <img src='sobercards.png' alt='Sober Cards' />
+        <img className='book-img' src='sobercards.png' alt='Sober Cards' />
       </div>
       <section className='card-container'>
         {sobercards.map((quote) => (

@@ -5,7 +5,7 @@ export default function AdditionalCliches() {
   return (
     <main>
       <div className='book-container'>
-        <img src='101additional.jpg' alt='101 Additional Common Cliches' />
+        <img className='cliche-img' src='101additional.jpg' alt='101 Additional Common Cliches' />
       </div>
       <section className='card-container'>
         {additional_cliches.map((cliche) => (

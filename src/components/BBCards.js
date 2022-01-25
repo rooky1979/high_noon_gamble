@@ -5,7 +5,7 @@ export default function BBCards() {
   return (
     <main>
       <div className='book-container'>
-        <img src='bbcards.png' alt='Big Book Cards' />
+        <img className='cliche-img' src='bbcards.png' alt='Big Book Cards' />
       </div>
       <section className='card-container'>
         {bbcards.map((quote) => (
