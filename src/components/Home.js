@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <div className='home-container'>
-        <img src='HNGHome.png' alt='Welcome to High Noon Gamble' />
+        <img className='home-img' src='HNGHome.png' alt='Welcome to High Noon Gamble' />
       </div>
       <div className='books'>
         <NavLink to='/cliches'>
