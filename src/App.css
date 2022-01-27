@@ -191,11 +191,32 @@
   margin-top: 20px;
   justify-content: center;
   align-items: center;
+
 }
-.book {
+.cliche-book {
   padding-bottom: 30px;
   margin-right: 20px;
-  width: 170px;
+  width: 150px;
+}
+.addcliche-book {
+  padding-bottom: 30px;
+  margin-right: 20px;
+  width: 161px;
+}
+.mymind-book {
+  padding-bottom: 30px;
+  margin-right: 20px;
+  width: 210px;
+}
+.sobercard-book {
+  padding-bottom: 30px;
+  margin-right: 20px;
+  width: 190px;
+}
+.bbcard-book {
+  padding-bottom: 30px;
+  margin-right: 20px;
+  width: 160px;
 }
 /* Each book pages */
 .book-container {
@@ -206,21 +227,25 @@
   align-self: center;
   width: 15%;
   margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 .bbcard-img{
   align-self: center;
   width: 18%;
   margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 .sobercards-img{
   align-self: center;
   width: 20%;
   margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 .book-img{
   align-self: center;
   width: 25%;
   margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 /* Textbox and buttons */
 .form-textbox {

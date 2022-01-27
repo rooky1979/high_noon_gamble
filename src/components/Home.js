@@ -9,27 +9,27 @@ export default function Home() {
       </div>
       <div className='books'>
         <NavLink to='/cliches'>
-          <img className='book' src='101cliches.jpg' alt='101 cliches' />
+          <img className='cliche-book' src='101cliches.jpg' alt='101 cliches' />
         </NavLink>
         <NavLink to='/additionalcliches'>
           <img
-            className='book'
+            className='addcliche-book'
             src='101additional.jpg'
             alt='101 additional cliches'
           />
         </NavLink>
         <NavLink to='/mymind'>
           <img
-            className='book'
+            className='mymind-book'
             src='mindout.jpg'
             alt='My mind is out to get me'
           />
         </NavLink>
         <NavLink to='/sobercards'>
-          <img className='book' src='sobercards.png' alt='sober cards' />
+          <img className='sobercard-book' src='sobercards.png' alt='sober cards' />
         </NavLink>
         <NavLink to='/bbcards'>
-          <img className='book' src='bbcards.png' alt='big book cards' />
+          <img className='bbcard-book' src='bbcards.png' alt='big book cards' />
         </NavLink>
       </div>
     </main>
