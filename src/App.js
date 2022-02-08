@@ -7,6 +7,10 @@ import MyMind from './components/MyMind';
 import SoberCards from './components/SoberCards';
 import BBCards from './components/BBCards';
 import NavBar from './components/NavBar';
+import Tools from './components/Tools';
+import Readings from './components/Readings';
+import Format from './components/Format';
+import Chat from './components/Chat';
 
 function App() {
   return (
@@ -14,7 +18,11 @@ function App() {
       <NavBar />
       <Switch>
         <Route component={Home} path='/' exact />
+        <Route component={Tools} path='/tools' exact />
+        <Route component={Readings} path='/readings' />
         <Route component={Cliches} path='/cliches' />
+        <Route component={Format} path='/format' />
+        <Route component={Chat} path='/chat' />
         <Route component={AdditionalCliches} path='/additionalcliches' />
         <Route component={MyMind} path='/mymind' />
         <Route component={SoberCards} path='/sobercards' />

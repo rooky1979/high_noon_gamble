@@ -17,28 +17,21 @@ export default function NavBar() {
           </NavLink>
         </div>
         <div className={click ? 'nav-options active' : 'nav-options'}>
-          <NavLink to='/cliches' className='option' onClick={closeMobileMenu}>
-            101 Common Cliches
+          <NavLink to='/tools' className='option' onClick={closeMobileMenu}>
+            Tools
+          </NavLink>
+          <NavLink to='/readings' className='option' onClick={closeMobileMenu}>
+            Readings
           </NavLink>
           <NavLink
-            to='/additionalcliches'
+            to='/format'
             className='option'
             onClick={closeMobileMenu}
           >
-            101 Additional Cliches
+            Meeting Format
           </NavLink>
-          <NavLink to='/mymind' className='option' onClick={closeMobileMenu}>
-            My Mind Is Out To Get Me
-          </NavLink>
-          <NavLink
-            to='/sobercards'
-            className='option'
-            onClick={closeMobileMenu}
-          >
-            Sober Cards
-          </NavLink>
-          <NavLink to='/bbcards' className='option' onClick={closeMobileMenu}>
-            Big Book Cards
+          <NavLink to='/chat' className='option' onClick={closeMobileMenu}>
+            Post In Chat
           </NavLink>
         </div>
       </div>
