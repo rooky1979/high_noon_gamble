@@ -39,18 +39,18 @@ export default function Readings(){
                 Remember that we deal with alcohol — cunning, baffling, powerful! Without help it is too much for us. But there is One who has all power — that One is God. May you find Him now!<br></br><br></br>
                 Half measures availed us nothing. We stood at the turning point. We asked His protection and care with complete abandon.<br></br><br></br>
                 Here are the steps we took, which are suggested as a program of recovery:<br></br><br></br>
-                1. We admitted we were powerless over alcohol — that our lives had become unmanageable.<br></br><br></br>
-                2. Came to believe that a Power greater than ourselves could restore us to sanity.<br></br><br></br>
-                3. Made a decision to turn our will and our lives over to the care of God as we understood Him.<br></br><br></br>
-                4. Made a searching and fearless moral inventory of ourselves.<br></br><br></br>
-                5. Admitted to God, to ourselves, and to another human being the exact nature of our wrongs.<br></br><br></br>
-                6. Were entirely ready to have God remove all these defects of character.<br></br><br></br>
-                7. Humbly asked Him to remove our shortcomings.<br></br><br></br>
-                8. Made a list of all persons we had harmed, and became willing to make amends to them all.<br></br><br></br>
-                9. Made direct amends to such people wherever possible, except when to do so would injure them or others.<br></br><br></br>
-                10. Continued to take personal inventory and when we were wrong promptly admitted it.<br></br><br></br>
-                11. Sought through prayer and meditation to improve our conscious contact with God as we understood Him, praying only for knowledge of His will for us and the power to carry that out.<br></br><br></br>
-                12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.<br></br><br></br>
+                <strong>1.</strong> We admitted we were powerless over alcohol — that our lives had become unmanageable.<br></br><br></br>
+                <strong>2.</strong> Came to believe that a Power greater than ourselves could restore us to sanity.<br></br><br></br>
+                <strong>3.</strong> Made a decision to turn our will and our lives over to the care of God as we understood Him.<br></br><br></br>
+                <strong>4.</strong> Made a searching and fearless moral inventory of ourselves.<br></br><br></br>
+                <strong>5.</strong> Admitted to God, to ourselves, and to another human being the exact nature of our wrongs.<br></br><br></br>
+                <strong>6.</strong> Were entirely ready to have God remove all these defects of character.<br></br><br></br>
+                <strong>7.</strong> Humbly asked Him to remove our shortcomings.<br></br><br></br>
+                <strong>8.</strong> Made a list of all persons we had harmed, and became willing to make amends to them all.<br></br><br></br>
+                <strong>9.</strong> Made direct amends to such people wherever possible, except when to do so would injure them or others.<br></br><br></br>
+                <strong>10.</strong> Continued to take personal inventory and when we were wrong promptly admitted it.<br></br><br></br>
+                <strong>11.</strong> Sought through prayer and meditation to improve our conscious contact with God as we understood Him, praying only for knowledge of His will for us and the power to carry that out.<br></br><br></br>
+                <strong>12.</strong> Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.<br></br><br></br>
                 Many of us exclaimed,
                 “What an order! I can’t go through with it."
                 Do not be discouraged. No one among us has been able to maintain anything like perfect adherence to these principles. We are not saints. The point is, that we are willing to grow along spiritual lines. The principles we have set down are guides to progress. We claim spiritual progress rather than spiritual perfection.<br></br><br></br>

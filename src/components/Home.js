@@ -7,7 +7,7 @@ export default function Home() {
       <div className='home-container'>
         <img className='home-img' src='HNGHome.png' alt='Welcome to High Noon Gamble' />
       </div>
-      <div className='books'>
+{/*       <div className='books'>
         <NavLink to='/cliches'>
           <img className='cliche-book' src='101cliches.jpg' alt='101 cliches' />
         </NavLink>
@@ -31,7 +31,7 @@ export default function Home() {
         <NavLink to='/bbcards'>
           <img className='bbcard-book' src='bbcards.png' alt='big book cards' />
         </NavLink>
-      </div>
+      </div> */}
     </main>
   );
 }
