@@ -4,8 +4,8 @@ import { NavLink } from 'react-router-dom';
 export default function Tools() {
   return (
     <main>
-      <div className='home-container'>
-        <img className='home-img' src='HNGHome.png' alt='Welcome to High Noon Gamble' />
+      <div className='tools-img-container'>
+        <img className='tools-img' src='tools.png' alt='Welcome to High Noon Gamble' />
       </div>
       <div className='books'>
         <NavLink to='/cliches'>

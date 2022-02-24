@@ -189,7 +189,7 @@ export const bbcards = [
     id: '28',
     book: 'Big Book Cards',
     quote:
-      '"What we really have is a daily contingent on the maintenance of our spiritual condition." - Page 85',
+      '"What we really have is a daily reprieve contingent on the maintenance of our spiritual condition." - Page 85',
     bookid: '5',
   },
   {

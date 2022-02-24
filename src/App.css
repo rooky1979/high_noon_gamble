@@ -307,6 +307,15 @@
 .article {
   padding: 1em;
 }
+/* tools page */
+.tools-img-container {
+  display: flex;
+  flex-direction: column;
+}
+.tools-img{
+  align-self: center;
+  width: 25%;
+}
 /* readings page */
 .readings-container {
   display: flex;
