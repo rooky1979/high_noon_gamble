@@ -35,8 +35,7 @@ export default function Format() {
                     <br></br><br></br>
                     <strong>Virtual Basket</strong>
                     <br></br><br></br>
-                    We will now pass the Virtual Basket. At in-person meetings these contributions support rent, coffee, chips and literature.<br></br><br></br>Here we utilize these self supporting contributions to keep our ZOOMs running, mail out monthly and annual chips, and to support Las Vegas Central Office as well as Alcoholics Anonymous World Services (GSO).<br></br><br></br>If your local meeting or central office has a digital basket, we support that you support them! VENMO @HNGVegas ( 8223  CONFIRM CODE if needed). Thank you for your contributions!
-                    <br></br><br></br>
+                    We will now pass the Virtual Basket.<br></br><br></br> At in-person meetings these contributions support rent, coffee, chips, and literature. Here we utilize these self-supporting contributions to keep our ZOOMs running and mail out monthly and annual chips. If your local meeting or central office has a digital basket, we support you supporting them!<br></br><br></br> Donate using VENMO @hngvegas (8215 CONFIRM CODE if required), PayPal to hngvegas@gmail.com, or Zelle. If you would like to use Zelle, we suggest you set up a contact in your phone with first and last names of “HNG Treasurer” or similar, with phone number 502-507-8215 and email address hngvegas@gmail.com.<br></br><br></br> Thank you for your contributions!<br></br><br></br>
                     <strong>Introductions and Birthdays</strong>
                     <br></br><br></br>
                     Is there anyone new to this group or in their first 30 days of sobriety that would like to unmute and briefly introduce themselves? This is not to embarrass you but to get to know you better.<br></br><br></br>
