@@ -9,7 +9,7 @@ export default function Format() {
             </div>
             <div className="readings-container">
                 <p className="readings-font"><strong>Welcome</strong><br></br><br></br> 
-                    Welcome to the High Noon Gamble of Alcoholics Anonymous, my name is ***** and I am an alcoholic.
+                    Welcome to the High Noon Gamble meeting of Alcoholics Anonymous, my name is ***** and I am an alcoholic.
                     <br></br><br></br> 
                     I would like to open up the meeting with a moment of silence for those who are still suffering in and out of the rooms of Alcoholics Anonymous.<br></br><br></br>
                     If you choose, please join me in the we version of the Serenity Prayer:<br></br><br></br>
