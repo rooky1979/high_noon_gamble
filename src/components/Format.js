@@ -22,7 +22,7 @@ export default function Format() {
                     There is a Solution pg. 17
                     <br></br><br></br>
                     <strong>Zoom Etiquette</strong><br></br><br></br>
-                    We ask that everyone stay on MUTE for the duration of the meeting so that we may hear the speaker more clearly.<br></br><br></br>The mute button is in the left corner of the bottom of your screen. When you would like to share, please unmute, and introduce yourself. If someone else is sharing and you would like to go next, the raise hand feature is located in your participant’s window. To the right of your microphone is a camera to share or stop video.<br></br><br></br>If you have your camera on, please stay in appropriate attire and activity aka no drinking, drug use or nudity in the meeting.<br></br><br></br>Chat will stay locked to the hosts only for the duration of the meeting. At the end I will turn it back on so that you can plug meetings or AA/Non-AA announcements and exchange information.<br></br><br></br>For meeting attendance requests, message me your full name and email, I will complete those after the meeting. 
+                    We ask that everyone stay on MUTE for the duration of the meeting so that we may hear the speaker more clearly.<br></br><br></br>The mute button is in the left corner of the bottom of your screen. When you would like to share, please unmute, and introduce yourself. If someone else is sharing and you would like to go next, the raise hand feature is located in your participant’s window. To the right of your microphone is a camera to share or stop video.<br></br><br></br>If you have your camera on, please stay in appropriate attire and activity aka no drinking, drug use or nudity in the meeting.<br></br><br></br>Chat will stay locked to the hosts only for the duration of the meeting. At the end I will turn it back on so that you can plug meetings or AA/Non-AA announcements and exchange information.<br></br><br></br>For court card verification and meeting attendance requests, please message your full name and email to hngvegas@gmail.com and they will be completed. 
                     <br></br><br></br>
                     At this meeting, we do allow crosstalk in a positive manner only, please. For example, encouragement, relatability, and appropriate compliments are welcomed. Please refrain from any correcting, arguing, or negative comments. The host may take safety measures they feel necessary like muting a participant if this does occur. Remember, we are a fellowship with a common purpose: to stay sober and help other alcoholics to achieve sobriety.  Thank you.
                     <br></br><br></br>
@@ -49,7 +49,7 @@ export default function Format() {
                     <br></br><br></br>
                     Here at the High Noon Gamble, we like to have a bit of fun with our recovery.  I would like to introduce you to ***** with the tools.
                     <br></br><br></br>
-                    The meeting is now open.
+                    The meeting is now open. Please try to limit your shares to 3-5 minutes so that everyone may get a chance to share.
                     <br></br><br></br>
                     <strong>WITH 5 MINUTES LEFT</strong> 
                     <br></br><br></br>

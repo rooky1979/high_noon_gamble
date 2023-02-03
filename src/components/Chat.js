@@ -22,7 +22,7 @@ export default function Chat(){
                  https://youtu.be/OtrqWTKYIsA
                 <br></br><br></br>
                 <strong>Meeting attendance verification/ Court card requests:</strong> <br></br>
-                Send first and last initial (or full name, if legally required), as well as an email address to the host at the end of the meeting<br></br><br></br>
+                Send first and last initial (or full name, if legally required), as well as an email address to hngvegas@gmail.com<br></br><br></br>
                 <strong>Questions:</strong> hngvegas@gmail.com
                 <br></br><br></br>
                 If you would like to make High Noon Gamble your virtual homegroup, please email hngvegas@gmail.com. Please list your name, sobriety date, if you are looking for a sponsor and your address. We use this info to connect and direct members in fellowship and service, and we have been known to mail out a smile or two!<br></br><br></br>
